@@ -1,0 +1,37 @@
+PODS:
+  - Alamofire (4.5.0)
+  - AlamofireNetworkActivityIndicator (2.2.0):
+    - Alamofire (~> 4.5)
+  - Kingfisher (4.9.0)
+  - MJRefresh (3.3.1)
+  - SnapKit (4.2.0)
+  - SwiftyJSON (5.0.0)
+
+DEPENDENCIES:
+  - Alamofire (= 4.5)
+  - AlamofireNetworkActivityIndicator (= 2.2)
+  - Kingfisher (= 4.9.0)
+  - MJRefresh
+  - SnapKit (~> 4.0)
+  - SwiftyJSON
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Alamofire
+    - AlamofireNetworkActivityIndicator
+    - Kingfisher
+    - MJRefresh
+    - SnapKit
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: f28cdffd29de33a7bfa022cbd63ae95a27fae140
+  AlamofireNetworkActivityIndicator: 81e1630e7cfed22a4e4e82a174c59e651dc4f8ca
+  Kingfisher: 64539b51826b778206daa6ed815d12653caa69dd
+  MJRefresh: eeda70fbf0ad277f3178cef1cd0c3532591d6237
+  SnapKit: fe8a619752f3f27075cc9a90244d75c6c3f27e2a
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+
+PODFILE CHECKSUM: fdffe81524951eb41e870ebd08dc58ec3b2fd380
+
+COCOAPODS: 1.8.4
